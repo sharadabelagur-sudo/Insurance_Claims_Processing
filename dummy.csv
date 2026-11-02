@@ -1,0 +1,6 @@
+cust_id,member_id,group_number,full_name,dob,policy_start_date,policy_end_date,policy_status,plan_type,covered_claim_types,email,phone
+C1001,APX-77401928,GRP-90210,Jane Doe,12/04/1988,15/01/2024,14/01/2027,ACTIVE,Gold PPO,Health|Travel|Expense,jane.doe@example.com,555-0101
+C1002,APX-55120377,GRP-90210,John Smith,03/09/1979,01/06/2023,31/12/2026,ACTIVE,Silver HMO,Health|Expense,john.smith@example.com,555-0102
+C1003,APX-88230145,GRP-40551,Maria Garcia,22/11/1991,20/09/2026,19/09/2027,ACTIVE,Bronze Basic,Health,maria.garcia@example.com,555-0103
+C1004,APX-33019876,GRP-40551,Robert Chen,17/02/1985,10/03/2022,09/03/2026,LAPSED,Gold PPO,Health|Travel,robert.chen@example.com,555-0104
+C1005,APX-61842290,GRP-77120,Priya Patel,30/07/1994,01/02/2025,31/01/2027,ACTIVE,Travel Plus,Travel|Expense,priya.patel@example.com,555-0105

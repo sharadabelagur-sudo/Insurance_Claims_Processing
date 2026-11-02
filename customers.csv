@@ -1,0 +1,5 @@
+cust_id,member_id,group_number,full_name,dob,policy_start_date,policy_end_date,policy_status,plan_type,covered_claim_types,email,phone
+C2001,APX-20481733,GRP-31007,Olivia Bennett,1985-06-18,2024-03-01,2027-02-28,ACTIVE,Gold PPO,Health|Travel|Expense,olivia.bennett@example.com,555-0201
+C2002,APX-20559012,GRP-31007,Daniel Okafor,1979-02-27,2022-08-15,2027-08-14,ACTIVE,Platinum PPO,Health|Expense,daniel.okafor@example.com,555-0202
+C2003,APX-20673840,GRP-44218,Marcus Reid,1988-12-19,2026-10-20,2027-10-19,ACTIVE,Silver HMO,Health,marcus.reid@example.com,555-0203
+C2004,APX-20790265,GRP-44218,Hannah Kim,1996-03-21,2025-06-01,2027-05-31,ACTIVE,Expense Saver,Expense,hannah.kim@example.com,555-0204

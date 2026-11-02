@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets - never commit API keys
+.env
+*.key
+
+# Generated at runtime
+kb_index/
+claims_log.json

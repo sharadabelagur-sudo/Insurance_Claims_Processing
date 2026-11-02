@@ -1,0 +1,16 @@
+streamlit>=1.37
+pandas
+langgraph>=0.2
+langchain-core>=0.3
+langchain-community>=0.3
+langchain-text-splitters>=0.3
+langchain-huggingface>=0.1
+langchain-anthropic>=0.3
+# optional, only if you pick the OpenAI provider in the sidebar
+# langchain-openai>=0.2
+faiss-cpu
+sentence-transformers
+pypdf
+pydantic>=2
+# only needed for generate_bills.py
+reportlab
